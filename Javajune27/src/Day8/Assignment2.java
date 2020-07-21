@@ -1,5 +1,4 @@
-package Day8;
- 
+package Day8; 
 /*     *****
        ****
        ***

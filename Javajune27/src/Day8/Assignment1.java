@@ -1,5 +1,4 @@
-package Day8;
- 
+package Day8; 
 /*     1
        12
        123
