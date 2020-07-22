@@ -9,7 +9,8 @@ public class childClass extends abstractclass {
 		
 	}
 	public static void main(String[] args) {
-		childClass m1= new childClass();
+		                                     // can't create object of abstarct class
+		childClass m1= new childClass();    // call the abstract method by creating object of child class                                     
 		m1.method1();
 		
 	}
